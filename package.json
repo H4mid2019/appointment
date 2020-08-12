@@ -1,0 +1,30 @@
+{
+  "version": "0.0.236",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "name": "appointment",
+  "main": "index.js",
+  "devDependencies": {
+    "react-scripts": "1.0.0",
+    "typescript": "^3.8.2"
+  },
+  "dependencies": {
+    "react-scripts": "^3.0.1",
+    "react-dom": "^16.12.0",
+    "react": "^16.12.0",
+    "antd": "4.5.2",
+    "@ant-design/icons": "latest"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "keywords": [],
+  "description": null
+}
